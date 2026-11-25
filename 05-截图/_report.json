@@ -1,0 +1,253 @@
+[
+  {
+    "name": "01-login",
+    "path": "/login",
+    "overflow": null
+  },
+  {
+    "name": "02-dashboard",
+    "path": "/dashboard/index",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "03-room-list",
+    "path": "/room/list",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "04-room-detail",
+    "path": "/room/detail/1",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "05-seat-map",
+    "path": "/room/seat-map",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "06-booking-list",
+    "path": "/booking/list",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "07-booking-detail",
+    "path": "/booking/detail/1",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "08-checkin-workbench",
+    "path": "/booking/checkin",
+    "overflow": {
+      "sh": 1151,
+      "ch": 844,
+      "over": 307
+    }
+  },
+  {
+    "name": "09-waitlist",
+    "path": "/booking/waitlist",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "10-violation-list",
+    "path": "/violation/list",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "11-violation-detail",
+    "path": "/violation/detail/1",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "12-blacklist",
+    "path": "/violation/blacklist",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "13-heatmap",
+    "path": "/insight/heatmap",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "14-report",
+    "path": "/insight/report",
+    "overflow": {
+      "sh": 846,
+      "ch": 844,
+      "over": 2
+    }
+  },
+  {
+    "name": "15-rule-config",
+    "path": "/insight/rule",
+    "overflow": {
+      "sh": 848,
+      "ch": 844,
+      "over": 4
+    }
+  },
+  {
+    "name": "16-college-stat",
+    "path": "/insight/college",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "17-risk-detail",
+    "path": "/insight/risk/7",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "18-user-list",
+    "path": "/system/user",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "19-role-list",
+    "path": "/system/role",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "20-menu-list",
+    "path": "/system/menu",
+    "overflow": {
+      "sh": 1643,
+      "ch": 844,
+      "over": 799
+    }
+  },
+  {
+    "name": "21-dict-list",
+    "path": "/system/dict",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "22-oper-log",
+    "path": "/system/log",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "23-notice",
+    "path": "/me/notice",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "24-message",
+    "path": "/me/message",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "25-profile",
+    "path": "/me/profile",
+    "overflow": {
+      "sh": 844,
+      "ch": 844,
+      "over": 0
+    }
+  },
+  {
+    "name": "26-portal-home",
+    "path": "/portal/home",
+    "overflow": null
+  },
+  {
+    "name": "27-portal-select",
+    "path": "/portal/select",
+    "overflow": null
+  },
+  {
+    "name": "28-portal-bookings",
+    "path": "/portal/bookings",
+    "overflow": null
+  },
+  {
+    "name": "29-portal-checkin",
+    "path": "/portal/checkin",
+    "overflow": null
+  },
+  {
+    "name": "30-portal-report",
+    "path": "/portal/report",
+    "overflow": null
+  },
+  {
+    "name": "31-portal-violation",
+    "path": "/portal/violation",
+    "overflow": null
+  }
+]
